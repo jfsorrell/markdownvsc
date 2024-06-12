@@ -74,7 +74,7 @@ To commit a change:
 
 ### Sample Code Snippets
 
-Documentation for developers or end users often need code snippets for examples or instruction. Markdown and VSC have special formatting for code. Using ``` at the beginning and end of text creates a code snippet. See the example below. 
+Documentation for developers or end users often need code snippets for examples and instruction. Markdown and VSC have special formatting for code. Using ``` at the beginning and end of text creates a code snippet. See the example below. 
 
 ```
 from django.conf.urls import url
