@@ -20,7 +20,7 @@ This article will address using Markdown and the Visual Studio Code (VSC) cloud 
 
 Aside from using a great editor, documenters must choose a syntax that will be flexible as well as sufficient. One of the best plain-text markup languages in existnce is Markdown. Markdown can be used in editors like VSC, and can be used as docs-as-code. While developers are creating changes and pushing code to the repository, writers can access, update, and release documentation faster and with accuracy. 
 
-Markdown is a series of simple formatting elements that denote or signal the details of your text. For example the "#" sign is used to denote a heading. All of Mardown's elements are keyboard friendly, making for faster writing. Below is a quick cheat sheet of commonly used formatting elements: 
+Markdown is a series of simple formatting elements that denote or signal the details of your text. For example the "#" sign is used to denote a heading. All of Markdown's elements are keyboard friendly, making for faster writing. Below is a quick cheat sheet of commonly used formatting elements: 
 
 - "#" : heading
 - "##": sub-heading
