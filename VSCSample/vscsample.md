@@ -45,7 +45,6 @@ For more information on VSC and the desktop version, refer to the Getting Starte
 
 VSC web editor is used simply by going to [vscode.dev](vscode.dev). It opens in the browser and you can begin immediately. Files created are stored locally on the user's desktop or laptop. This allows the user to edit code or documentation in the cloud without downloading the VSC app. Older laptops or those with little storage can use the web based version of the app with ease. 
 
-<video controls src="vscvid1.mp4" title="Title"></video>
 
 ### Github Integration
 
