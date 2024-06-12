@@ -48,7 +48,7 @@ VSC web editor is used simply by going to [vscode.dev](vscode.dev). It opens in 
 
 ### Github Integration
 
-Connecting your documentation to your Github repository is painless and quick. Follow the steps below to connect your VSC web editor to an existing repo. 
+Connecting your documentation to your Github repository is painless and quick. Follow the steps below to connect your VSC web editor to an existing repository (repo). 
 
 **NOTE: If you do not have an existing repo in Github, you will need to create one to use this method to connect. For more information on starting a repo refer to the [Github Getting Started Guide](https://docs.github.com/en/get-started).**
 
