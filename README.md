@@ -14,7 +14,7 @@ If you'd like to skip to the part you need most, refer to the TOC below:
 
 The internet is built by software develolpers, but it is documentation that tells the world how to use it. Technical documentation explains how to use web applications, phone apps, AI, APIs, and other types of software. Even video game consoles come with "Quick Start" guides to easily set up your next gaming adventure. Documentation is usually simple to follow and easy to access. 
 
-This article will address using Markdown and the Visual Studio Code cloud environment for creating detailed, quick, and effecitve documentation. 
+This article will address using Markdown and the Visual Studio Code (VSC) cloud environment for creating detailed, quick, and effecitve documentation. 
 
 ### Markdown
 
@@ -38,7 +38,7 @@ Working on documentation or coding in a cloud environment has the same principle
 
 ### VSC Cloud Editor
 
-While there are numerous methods for creating and posting documentation, one of the most efficient and intuitive methods for creating it is using Visual Studio Code (VSC), an integrated development environment (IDE). VSC is one of the most versatile developer tools available for free. A few years ago, it was improved even further with the integration of cloud version called the VSC web editor. This allows developers to use the editor directly in the internet browser, without downloading it to a device. 
+While there are numerous methods for creating and posting documentation, one of the most efficient and intuitive methods for creating it is using Visual Studio Code, an integrated development environment (IDE). VSC is one of the most versatile developer tools available for free. A few years ago, it was improved even further with the integration of cloud version called the VSC web editor. This allows developers to use the editor directly in the internet browser, without downloading it to a device. 
 
 For more information on VSC and the desktop version, refer to the Getting Started topic with VSC [documentation](https://code.visualstudio.com/docs). 
 
