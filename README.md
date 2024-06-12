@@ -102,4 +102,4 @@ Using a code snipped within the documentation lets users to directly copy the co
 
 VSC web editor or cloud version is one of the best free tools for coding and documentation. It directly connects to any Github repo and has nearly the same functions as the desktop version of the app. While it does not have a terminal, it can be used on nearly any device with an internet connection. Combining VSC with Markdown creates a working environment that users can utilize as docs-as-code and working in tandem with developers. Documentation moves faster, is accurate, up-to-date, and functional with the fused functionality of an easy syntax language and a versatile code editor. 
 
-To view the Markdown syntax for this documentation, open the .md file and select "Raw" in the Github repo. 
+To view the Markdown syntax for this documentation, open the .md file and select "Raw". 
