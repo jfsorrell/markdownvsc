@@ -41,21 +41,38 @@ Working on documentation or coding in a cloud environment has the same principle
 
 While there are numerous methods for creating and posting documentation, one of the most efficient and intuitive methods for creating it is using Visual Studio Code (VSC), an integrated development environment (IDE). VSC is one of the most versatile developer tools available for free. A few years ago, it was improved even further with the integration of cloud version called the VSC web editor. This allows developers to use the editor directly in the internet browser, without downloading it to a device. 
 
-For more information on VSC and the desktop version, refer to the Getting Started with VSC [documentation](https://code.visualstudio.com/docs). 
+For more information on VSC and the desktop version, refer to the Getting Started topic with VSC [documentation](https://code.visualstudio.com/docs). 
 
 VSC web editor is used simply by going to [vscode.dev](vscode.dev). It opens in the browser and you can begin immediately. Created folders and files are stored locally on the user's desktop or laptop. This allows the user to edit code or documentation in the cloud without downloading the VSC app. Older laptops or those with little storage can use the web based version of the app with ease. 
 
 ![vscfile](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamg5aTN0dGt3YWNwNDN4azFpcHY1NXBhZmR0ZTF5NmI4eDJtM3FiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mRJpfetJywbRzAaLkQ/giphy.gif)
+
 ### Github Integration
 
-video
+Connecting your documentation to your Github repository is painless and quick. Follow the steps below to connect your VSC web editor to an existing repo. 
+
+**NOTE: If you do not have an existing repo in Github, you will need to create one to use this method to connect.**
+
+1. Navigate to your Github repository's main page. 
+2. Next, remove the "https://" from the url.
+3. Finally, replace the removed text with "vscode.dev/" and click "enter".
+
+The browser will open your VSC web editor with your repo connect. 
+
+![vscode browser url](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTUyYm5xY2F2dnEwb3R2Mm9xYW54OHZudXB3N3k2andycmVva216bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bz1BthcAC3wMEVaAt0/giphy.gif) 
+
+Once connected to your repo, you can commit, push, and pull to your repo. 
+
+One of the biggest differences in the desktop VSC and the cloud version, is the absence of the terminal. So when making commits and changes, it can only be done using the VSC options. 
+
+To commit a change: 
+
+1. Select the source control icon in the left hand menu. 
+2. In the "Message" field, add the commit notes.
+3. Select the checkmark or click "Commit & Push" to commit changes to the desired repo.
+
 
 ### Sample Code Snippets
 
 kjkh
 
-### Terminal Commands 
-
-The biggest difference between the web editor and the desktop version. 
-
-cloud documentation, vsc, cloud tech and vsc for the web, easy integration video, images of github, explain how code smaples look, explain no terminal 
