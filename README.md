@@ -3,7 +3,7 @@
 # Quick Start Guide for Visual Studio Code Cloud Web Editor
 ## Using VSC and Markdown for Streamlined Documentation
 
-If you'd like to skip to the part you need most, refer to the TOC below:
+This is intended for those with foundational information about coding, documentation, markup languages, and source control. If you'd like to skip to the part you need most, refer to the TOC below:
 
 - [Markdown](#markdown)
 - [Cloud Environments](#cloud-environments)
