@@ -42,7 +42,7 @@ While there are numerous methods for creating and posting documentation, one of 
 
 For more information on VSC and the desktop version, refer to the Getting Started topic with VSC [documentation](https://code.visualstudio.com/docs). 
 
-VSC web editor is used simply by going to [vscode.dev](vscode.dev). It opens in the browser and you can begin immediately. Created folders and files are stored locally on the user's desktop or laptop. This allows the user to edit code or documentation in the cloud without downloading the VSC app. Older laptops or those with little storage can use the web based version of the app with ease. 
+VSC web editor is used simply by going to [vscode.dev](https://vscode.dev). It opens in the browser and you can begin immediately. Created folders and files are stored locally on the user's desktop or laptop. This allows the user to edit code or documentation in the cloud without downloading the VSC app. Older laptops or those with little storage can use the web based version of the app with ease. 
 
 ![vscfile](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamg5aTN0dGt3YWNwNDN4azFpcHY1NXBhZmR0ZTF5NmI4eDJtM3FiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mRJpfetJywbRzAaLkQ/giphy.gif)
 
