@@ -12,7 +12,7 @@ If you'd like to skip to the part you need most, refer to the TOC below:
 - [Sample Code Snippets](#sample-code-snippets)
 
 
-The internet is built by software develolpers, but it is documentation that tells the world how to use it. Technical documentation explains how to use web applications, phone apps, AI, APIs, and other types of software. Even video game consoles come with "Quickstart" guides to easily set up your next gaming adventure. Documentation is usually simple to follow and easy to access. 
+The internet is built by software develolpers, but it is documentation that tells the world how to use it. Technical documentation explains how to use web applications, phone apps, AI, APIs, and other types of software. Even video game consoles come with "Quick Start" guides to easily set up your next gaming adventure. Documentation is usually simple to follow and easy to access. 
 
 This article will address using Markdown and the Visual Studio Code cloud environment for creating detailed, quick, and effecitve documentation. 
 
