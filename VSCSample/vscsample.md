@@ -1,6 +1,6 @@
 ![alt text](VSCode.png)
 
-# Quickstart Guide for Visual Studio Code Cloud Web Editor
+# Quick Start Guide for Visual Studio Code Cloud Web Editor
 ## Using VSC and Markdown for Streamlined Documentation
 
 If you'd like to skip to the part you need most, refer to the TOC below:
@@ -71,8 +71,31 @@ To commit a change:
 2. In the "Message" field, add the commit notes.
 3. Select the checkmark or click "Commit & Push" to commit changes to the desired repo.
 
+![gif showing how to commit](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODYwcHVnYWpwd2Q5dnFoMm8wMjdiaWJjMGxpZ25sbXVsZDIwdGY2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jIqzYjxQbxB5Zk2tFk/giphy.gif)
 
 ### Sample Code Snippets
 
-kjkh
+Documentation for developers or end users often need code snippets for examples or instruction. Markdown and VSC have special formatting for code. Using "'''" at the beginning and end of text creates a code snippet. See the example below. 
+
+```
+from django.conf.urls import url
+
+from . import views
+
+urlpatterns = [
+    url(r'^$', views.index, name ="index"),
+
+    url(r'^allquotes$', views.allquotes, name ="allquotes"),
+    url(r'^create/$', views.create, name='create'),
+    url(r'^login/$', views.login, name="login"),
+    url(r'^addquote$', views.addquote, name='addquote'),
+    url(r'^likes$', views.likes, name='likes'),
+    url(r'^edit$', views.edit, name='edit'),
+    url(r'^(?P<id>\d+)/userquotes/$', views.userquotes, name ="userquotes"),
+    url(r'^(?P<id>\d+)/myaccount/$', views.myaccount, name ="myaccount"),
+    url(r'^(?P<id>\d+)/delete/$', views.delete, name='delete'),
+    url(r'^logout/$', views.logout, name='logout'),
+]
+```
+
 
