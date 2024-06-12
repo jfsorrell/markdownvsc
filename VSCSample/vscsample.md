@@ -75,7 +75,7 @@ To commit a change:
 
 ### Sample Code Snippets
 
-Documentation for developers or end users often need code snippets for examples or instruction. Markdown and VSC have special formatting for code. Using "'''" at the beginning and end of text creates a code snippet. See the example below. 
+Documentation for developers or end users often need code snippets for examples or instruction. Markdown and VSC have special formatting for code. Using ``` at the beginning and end of text creates a code snippet. See the example below. 
 
 ```
 from django.conf.urls import url
@@ -97,5 +97,10 @@ urlpatterns = [
     url(r'^logout/$', views.logout, name='logout'),
 ]
 ```
+Using a code snipped within the documentation lets users to directly copy the code from the page. It creates a shortcut that helps work stay continuous and avoids redirecting the reader. 
 
+### Closing (tl;dr)
 
+VSC web editor or cloud version is one of the best free tools for coding and documentation. It directly connects to any Github repo and has nearly the same functions as the desktop version of the app. While it does not have a terminal, it can be used on nearly any device with an internet connection. Combining VSC with Markdown creates a working environment that users can utilize as docs-as-code and working in tandem with developers. Documentation moves faster, is accurate, up-to-date, and functional with the fused functionality of an easy syntax language and a versatile code editor. 
+
+To view the Markdown syntax for this documentation, select "Raw" in the Github repo. 
