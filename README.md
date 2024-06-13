@@ -12,7 +12,7 @@ This is intended for those with foundational information about coding, documenta
 - [Sample Code Snippets](#sample-code-snippets)
 
 
-The internet is built by software develolpers, but it is documentation that tells the world how to use it. Technical documentation explains how to use web applications, phone apps, AI, APIs, and other types of software. Even video game consoles come with "Quick Start" guides to easily set up your next gaming adventure. Documentation is usually simple to follow and easy to access. 
+The Internet is built by software develolpers, but it is documentation that tells the world how to use it. Technical documentation explains how to use web applications, phone apps, AI, APIs, and other types of software. Even video game consoles come with "Quick Start" guides to easily set up your next gaming adventure. Documentation is usually simple to follow and easy to access. 
 
 This article will address using Markdown and the Visual Studio Code (VSC) cloud environment for creating detailed, quick, and effecitve documentation. 
 
@@ -38,7 +38,7 @@ Working on documentation or coding in a cloud environment has the same principle
 
 ### VSC Cloud Editor
 
-While there are numerous methods for creating and posting documentation, one of the most efficient and intuitive methods for creating it is using Visual Studio Code, an integrated development environment (IDE). VSC is one of the most versatile developer tools available for free. A few years ago, it was improved even further with the integration of cloud version called the VSC web editor. This allows developers to use the editor directly in the internet browser, without downloading it to a device. 
+While there are numerous methods for creating and posting documentation, one of the most efficient and intuitive methods for creating it is using Visual Studio Code, an integrated development environment (IDE). VSC is one of the most versatile developer tools available for free. A few years ago, it was improved even further with the integration of cloud version called the VSC web editor. This allows developers to use the editor directly in the web browser, without downloading it to a device. 
 
 For more information on VSC and the desktop version, refer to the Getting Started topic with VSC [documentation](https://code.visualstudio.com/docs). 
 
@@ -100,6 +100,6 @@ Using a code snipped within the documentation lets users to directly copy the co
 
 ### Closing (tl;dr)
 
-VSC web editor or cloud version is one of the best free tools for coding and documentation. It directly connects to any Github repo and has nearly the same functions as the desktop version of the app. While it does not have a terminal, it can be used on nearly any device with an internet connection. Combining VSC with Markdown creates a working environment that users can utilize as docs-as-code and working in tandem with developers. Documentation moves faster, is accurate, up-to-date, and functional with the fused functionality of an easy syntax language and a versatile code editor. 
+VSC web editor or cloud version is one of the best free tools for coding and documentation. It directly connects to any Github repo and has nearly the same functions as the desktop version of the app. While it does not have a terminal, it can be used on nearly any device with an Internet connection. Combining VSC with Markdown creates a working environment that users can utilize as docs-as-code and working in tandem with developers. Documentation moves faster, is accurate, up-to-date, and functional with the fused functionality of an easy syntax language and a versatile code editor. 
 
 To view the Markdown syntax for this documentation, open the .md file and select "Raw". 
